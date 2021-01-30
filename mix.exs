@@ -44,7 +44,6 @@ defmodule Dingo.MixProject do
       {:plug_cowboy, "~> 2.0"},
       {:credo, "~> 1.4", only: [:dev, :test], runtime: false},
       {:garuda, "~> 0.2.0"}
-      # {:garuda, path: "/mnt/white_dwarf/Labs/GARUDA/garuda"}
     ]
   end
 
